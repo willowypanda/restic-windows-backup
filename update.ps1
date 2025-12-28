@@ -49,7 +49,7 @@ param(
 # ====================================
 
 # GitHub repository details
-$repoOwner = "kmwoley"
+$repoOwner = "willowypanda"
 $repoName  = "restic-windows-backup"
 
 # User-Agent header (GitHub requires this)
